@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amimoofficial@gmail.com**
 
-- ⚡ Fun fact **I'm nice guy.**
+- ⚡ Fun fact **Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is recognized as the world's first programmer. She wrote the world's first algorithm intended to be processed by a machine, and her work laid the foundation for modern computer programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
